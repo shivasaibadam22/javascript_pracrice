@@ -1,2 +1,2 @@
-# javascript_pracrice
+# javascript_practice
 javascript practice
